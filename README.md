@@ -4,3 +4,5 @@ Fully customizable team simulator. You have the ability to change players stats,
 Should be run in an IDE, processing recommended
 
 Processing download: https://processing.org/download/
+
+Version: Beta 0.2
